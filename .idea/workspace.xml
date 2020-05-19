@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b85379af-401e-4d17-bfcf-2ac0be6a2ab1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/UM-lab-13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UM-lab-13.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sigmoid" beforeDir="false" afterPath="$PROJECT_DIR$/sigmoid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rbf" beforeDir="false" afterPath="$PROJECT_DIR$/rbf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="ca77ef8d-aada-4201-8c7e-fe30e50707ef" />
+  <component name="JupyterTrust" id="2808b57e-3bf4-40c8-9a3c-132d6be4845b" />
   <component name="ProjectId" id="1buhYDCdbGSG3tsjgeA7MLRnNAa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,6 +61,7 @@
       <workItem from="1589733691634" duration="3576000" />
       <workItem from="1589788524956" duration="6119000" />
       <workItem from="1589832504380" duration="586000" />
+      <workItem from="1589875824097" duration="2859000" />
     </task>
     <servers />
   </component>
@@ -69,10 +69,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1689" y="507" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589814124551">
+    <state x="1689" y="507" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589905463523">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1689" y="507" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1589814124551" />
+    <state x="1689" y="507" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1589905463523" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1589832815881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -97,10 +97,10 @@
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589832815881" />
     <state width="1235" height="405" key="GridCell.Tab.0.right/0.0.2560.1400/3840.1112.1280.680@0.0.2560.1400" timestamp="1589580683108" />
     <state width="1235" height="406" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589813583908" />
-    <state x="549" y="157" key="SettingsEditor" timestamp="1589832798214">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1421" y="346" key="SettingsEditor" timestamp="1589875877151">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="549" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589832798214" />
-    <state x="1421" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1589802761459" />
+    <state x="1421" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1589875877151" />
   </component>
 </project>
