@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b85379af-401e-4d17-bfcf-2ac0be6a2ab1" name="Default Changelist" comment="" />
+    <list default="true" id="b85379af-401e-4d17-bfcf-2ac0be6a2ab1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/UM-lab-13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UM-lab-13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sigmoid" beforeDir="false" afterPath="$PROJECT_DIR$/sigmoid" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,10 @@
       </list>
     </option>
   </component>
-  <component name="JupyterTrust" id="2808b57e-3bf4-40c8-9a3c-132d6be4845b" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="ca77ef8d-aada-4201-8c7e-fe30e50707ef" />
   <component name="ProjectId" id="1buhYDCdbGSG3tsjgeA7MLRnNAa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,6 +61,7 @@
       <workItem from="1589617387519" duration="2414000" />
       <workItem from="1589733691634" duration="3576000" />
       <workItem from="1589788524956" duration="6119000" />
+      <workItem from="1589832504380" duration="586000" />
     </task>
     <servers />
   </component>
@@ -61,29 +73,34 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1689" y="507" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1589814124551" />
-    <state width="1235" height="406" key="GridCell.Tab.0.bottom" timestamp="1589813583908">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1589832815881">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589832815881" />
     <state width="1235" height="405" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.1112.1280.680@0.0.2560.1400" timestamp="1589580683108" />
     <state width="1235" height="406" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1589813583908" />
-    <state width="1235" height="406" key="GridCell.Tab.0.center" timestamp="1589813583908">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1589832815880">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589832815880" />
     <state width="1235" height="405" key="GridCell.Tab.0.center/0.0.2560.1400/3840.1112.1280.680@0.0.2560.1400" timestamp="1589580683108" />
     <state width="1235" height="406" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1589813583908" />
-    <state width="1235" height="406" key="GridCell.Tab.0.left" timestamp="1589813583908">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1589832815880">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589832815880" />
     <state width="1235" height="405" key="GridCell.Tab.0.left/0.0.2560.1400/3840.1112.1280.680@0.0.2560.1400" timestamp="1589580683107" />
     <state width="1235" height="406" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1589813583908" />
-    <state width="1235" height="406" key="GridCell.Tab.0.right" timestamp="1589813583908">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1589832815881">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589832815881" />
     <state width="1235" height="405" key="GridCell.Tab.0.right/0.0.2560.1400/3840.1112.1280.680@0.0.2560.1400" timestamp="1589580683108" />
     <state width="1235" height="406" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1589813583908" />
-    <state x="1421" y="346" key="SettingsEditor" timestamp="1589802761459">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="549" y="157" key="SettingsEditor" timestamp="1589832798214">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="549" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589832798214" />
     <state x="1421" y="346" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1589802761459" />
   </component>
 </project>
